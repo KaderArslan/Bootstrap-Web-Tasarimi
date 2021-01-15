@@ -13,10 +13,10 @@ Kodluyoruz tarafından gerçekleştirilen Adana Full Stack Web Development Bootc
 
 ---
 
-> Projem **Karthik Rajendiran** tarafından Dizayn edilmiştir.Karthik Rajendiran'a tasarımını kodlamama izin verdiği için teşekkür ederim.
+> Projem **Karthik Rajendiran** tarafından Dizayn edilmiştir.Karthik Rajendiran'a tasarımını kodlamama olanak tanıdığı için teşekkür ederim.
 
-| Karthik Rajendiran | [Dribbble Hesabı](https://dribbble.com/karthik_rajendiran) |
-| ------------------ | --------------- |
+| Karthik Rajendiran     | [Dribbble Hesabı](https://dribbble.com/karthik_rajendiran) |
+| ---------------------- | --------------- |
 | **Karthik Rajendiran** | [**Kullandığım Tasarımı**](https://dribbble.com/shots/14777562-CC-Web-design) |
 
   
