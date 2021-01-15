@@ -5,7 +5,7 @@ Kodluyoruz tarafından gerçekleştirilen Adana Full Stack Web Development Bootc
 
 ---
 
-| Esinlendiğim |[Figma Tasarımı](https://www.figma.com/file/j5bOvIRQjkqpRuRc3EtY1l/CC-Web-design-concept-by-peppit-designs?node-id=0%3A1) |
+| Esinlendiğim |[Figma Tasarımı](https://dribbble.com/shots/14777562-CC-Web-design) |
 | ------------ | ---------- |
 | **Projemin** |[**ilk sayfası**](https://focused-jones-e5141a.netlify.app/) |
 | **Projemin** |[**ikinci sayfası**](https://focused-jones-e5141a.netlify.app/singup) |
