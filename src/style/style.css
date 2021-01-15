@@ -1,0 +1,137 @@
+#navbarId button {
+    background: #1D1B18;
+    border-radius: 10px;
+}
+
+#navbarId{
+    font-family: Work Sans;
+    font-size: 20px;
+    line-height: 119%;
+    color: #000000;
+}
+#navbarId span{
+    font-family: Circular Std;
+    font-size: 20px;
+    line-height: 119%;
+    color: #FFFFFF;
+}
+
+#firstPart.fs-1{
+    font-family: Work Sans;
+    font-weight: 800;
+    line-height: 128.5%;
+    color: #1D1B18;
+}
+#firstPart .title-small{
+    font-family: Work Sans;
+    font-size: 47px;
+    line-height: 128.5%;
+    color: #1D1B18;
+}
+#firstPart button{
+    width: 154px;
+    height: 71px;
+    background-color: #1D1B18;
+}
+#firstPart button span{
+    font-family: Work Sans;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+#secondPart .fs-1{
+    font-family: Work Sans;
+    color: #1D1B18;
+    line-height: 56px;
+}
+#secondPart h5{
+    font-family: Roboto;
+    font-size: 28px;
+    line-height: 33px;
+    color: #1D1B18;
+}
+#secondPart p{
+    font-family: Roboto;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #1D1B18;
+    opacity: 0.5;
+    width: 322px;
+    height: 144px;
+}
+#thirdPart strong{
+    font-family: Work Sans;
+    font-size: 48px;
+    line-height: 138%;
+    color: #1D1B18;
+}
+#thirdPart p{
+    font-family: Work Sans;
+    font-size: 24px;
+    line-height: 170%;
+    color: #1D1B18;
+}
+#fourthPart strong{ 
+    font-family: Work Sans;
+    font-size: 48px;
+    line-height: 138%;
+    color: #1D1B18;
+}
+#fourthPart p{
+    font-family: Work Sans;
+    font-size: 24px;
+    line-height: 170%;
+    color: #1D1B18;
+}
+
+#footer{
+    background-color: #190E2B;
+}
+#footer h4{
+    font-family: Work Sans;
+    font-size: 24px;
+    line-height: 119%;
+    color: #FFFFFF;
+}
+
+#footer li{
+    font-family: Work Sans;
+    font-size: 18px;
+    line-height: 119%;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+#footer p{
+    font-family: Work Sans;
+    font-size: 18px;
+    line-height: 119%;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+/* singup css */
+#singup strong{
+    font-family: Work Sans;
+    font-weight: 800;
+    font-size: 52px;
+    line-height: 128.5%;
+    color: #1D1B18;
+}
+#singup button{
+    background-color: #1D1B18;
+}
+#singup button span{
+    font-family: Work Sans;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+#singup label{
+    font-family: Work Sans;
+    font-size: 20px;
+    line-height: 119%;
+    color: #000000;
+}
