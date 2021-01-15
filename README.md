@@ -5,7 +5,7 @@ Kodluyoruz tarafından gerçekleştirilen Adana Full Stack Web Development Bootc
 
 ---
 
-| Esinlendiğim |[Figma Tasarımı](https://dribbble.com/shots/14777562-CC-Web-design) |
+| Esinlendiğim |[Tasarım](https://dribbble.com/shots/14777562-CC-Web-design) |
 | ------------ | ---------- |
 | **Projemin** |[**ilk sayfası**](https://focused-jones-e5141a.netlify.app/) |
 | **Projemin** |[**ikinci sayfası**](https://focused-jones-e5141a.netlify.app/singup) |
@@ -15,8 +15,8 @@ Kodluyoruz tarafından gerçekleştirilen Adana Full Stack Web Development Bootc
 
 > Projem **Karthik Rajendiran** tarafından Dizayn edilmiştir.Karthik Rajendiran'a tasarımını kodlamama izin verdiği için teşekkür ederim.
 
-| Karthik Rajendiran | [Dribbble Hesabı](http://karthik_rajendiran.dribbble.com/) |
+| Karthik Rajendiran | [Dribbble Hesabı](https://dribbble.com/karthik_rajendiran) |
 | ------------------ | --------------- |
-| **Karthik Rajendiran** | [**Figma Tasarımı**](https://www.figma.com/file/j5bOvIRQjkqpRuRc3EtY1l/CC-Web-design-concept-by-peppit-designs?node-id=0%3A1) |
+| **Karthik Rajendiran** | [**Kullandığım Tasarımı**](https://dribbble.com/shots/14777562-CC-Web-design) |
 
   
