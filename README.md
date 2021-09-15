@@ -1,3 +1,13 @@
+Merhabalar,
+
+Ben Kader Arslan. Kendimi geliştirirken öğrenme sürecimdeki projeleri burada paylaşıyorum. Öğrenme yolum ise proje geliştirirken öğrenmek. Hatalar ile projeler üzerinde karşılaşmak ve nihayetinde daha iyi öğrenmek. Kaizen tekniğini hayatıma yerleştirmeyi hedeflemekteyim. Sürekli iyileştirme ile dün ki ben ile yarın ki ben arasındaki farkı açma gayretindeyim. Amacım daha fazla öğrenmek. Öğrenirken uygulamak. Uygularken işin sırrını anlamak.
+
+“Başarı beklenecek bir şey değil, uğruna çalışılması gereken bir şeydir.” Henry Wadsworth Longfellow 
+
+sözü ile kaderini değiştirmek için çabalayanlara iyi çalışmalar diliyorum.
+
+<KaderArslan/>.
+
 # Bootstrap ile Web Tasarımı
 ### Açıklama
 
