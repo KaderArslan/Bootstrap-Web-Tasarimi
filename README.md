@@ -6,7 +6,7 @@ Ben Kader Arslan. Kendimi geliştirirken öğrenme sürecimdeki projeleri burada
 
 sözü ile kaderini değiştirmek için çabalayanlara iyi çalışmalar diliyorum.
 
-<KaderArslan/>.
+< KaderArslan />
 
 # Bootstrap ile Web Tasarımı
 ### Açıklama
